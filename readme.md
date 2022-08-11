@@ -10,7 +10,8 @@ text editor](https://atom.io/).
 
 1. Install the theme by replacing the contents of the "COLOR SECTION" in the
    `preferences` file in your LyX configuration folder with the contents of the
-   `onedark_lyx_cs` file in this repository.
+   `onedark_lyx_cs` file in this repository. On Windows the `preferences` file is
+   usually located inside `%USERPROFILE%\AppData\Roaming\LyX2.3`.
 2. If you have access to a `bash` shell, you can automate the installation with the
    included `install_colorscheme.sh` script by running:
    ```
